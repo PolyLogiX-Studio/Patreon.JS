@@ -1,0 +1,23 @@
+{
+  "name": "patreon.js",
+  "version": "1.0.0",
+  "description": "Node Rework of [Patreon.NET](https://github.com/Frooxius/Patreon.NET/tree/master/Patreon.NET)",
+  "main": "./src/PatreonClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolyLogiX-Studio/Patreon.JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolyLogiX-Studio/Patreon.JS/issues"
+  },
+  "homepage": "https://github.com/PolyLogiX-Studio/Patreon.JS#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
